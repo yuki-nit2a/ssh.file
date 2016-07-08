@@ -1,0 +1,2 @@
+# ssh.file
+ssh dotfile
